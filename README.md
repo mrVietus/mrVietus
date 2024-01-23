@@ -2,7 +2,7 @@
 
 ## Something about me at work 💼
 
-I am a software engineer with over eight years of professional experience in web development. My practical knowledge of the .NET and C# programming languages, including .NET 6 and AspNetCore, allows me to help deliver all requirements with structured clean code. I have a solid background in application structure design and architecture. I am reliable with high personal standards and attention to project details. I love learning new technologies and solving complex tasks.
+I am a software engineer with over eight years of professional experience in web development. My practical knowledge of .NET and TypeScript allows me to help deliver all requirements with structured clean code. I have a solid background in application structure design and architecture. I am reliable with high personal standards and attention to project details. I love learning new technologies and solving complex tasks.
 
 ## Experience 🚀
 - Web development with a focus on ASP.NET Core and Sitecore
